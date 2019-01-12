@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/daquan/CLionProjects/copy/main.c
+stdio.h
+/Users/daquan/CLionProjects/copy/stdio.h
+sys/stat.h
+/Users/daquan/CLionProjects/copy/sys/stat.h
+dirent.h
+/Users/daquan/CLionProjects/copy/dirent.h
+unistd.h
+/Users/daquan/CLionProjects/copy/unistd.h
+string.h
+/Users/daquan/CLionProjects/copy/string.h
+stdlib.h
+/Users/daquan/CLionProjects/copy/stdlib.h
+
