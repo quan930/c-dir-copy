@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/daquan/CLionProjects/copy/main.c
+/Users/daquan/CLionProjects/copy/noRecursive.c
 stdio.h
 /Users/daquan/CLionProjects/copy/stdio.h
 sys/stat.h
